@@ -2,8 +2,8 @@
 name: Data Tool for review
 about: Got a new tool to consider?
 title: New Data Tool
-labels: ''
-assignees: ''
+labels: Tool Review
+assignees: spjika
 
 ---
 
